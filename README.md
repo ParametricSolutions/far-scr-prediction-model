@@ -1,0 +1,1 @@
+This repository was developed by RISE Research Institutes of Sweden and Parametric Solutions within the project Future Urban Development: AI as a Catalyst for Sustainable Decisions (Vinnova diary number 2024-03229), funded by Vinnova under the call Advanced and Innovative Digitalisation 2024 – one-year projects.
